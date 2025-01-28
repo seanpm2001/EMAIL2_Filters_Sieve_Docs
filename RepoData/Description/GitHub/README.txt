@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+📧️2️⃣️🔘️📖️ The official documentation source repository for the EMAIL 2.0 sieve filter specification component, adding support for Email filters using the Sieve programming language.
